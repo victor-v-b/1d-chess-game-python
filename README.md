@@ -9,3 +9,5 @@ R = Rei (can move one slot to left/right)
 C = Cavalo (can move 2 slots to left/right and can jump over pieces)
 T = Torre (can move any distance to left/right)
 P = Peão (can move one two or one slots to the right)
+
+UI made with curses library
